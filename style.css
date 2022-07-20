@@ -41,7 +41,7 @@ body {
 }
 
 .donate-today-title p{
-    color: #757575;
+    color: #757474;
 }
 
 .donation-partition{
@@ -104,4 +104,13 @@ body {
     margin-left: 10px;
     margin-right: 10px;
     border-radius: 8px;
+}
+
+.input-amount{
+    text-align: center;
+    color: #b0acac;
+    width: 50%;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 335px;
 }
