@@ -30,27 +30,27 @@ body {
     border-radius: 5px;
 }
 
-.donate-today{
+.donate-today {
     text-align: center;
     margin-top: 100px;
     margin-bottom: 100px;
 }
 
-.donate-today-title h1{
+.special-1 h1 {
     font-size: 40px;
 }
 
-.donate-today-title p{
-    color: #757474;
+.special-1 p {
+    color: #707070;
 }
 
-.donation-partition{
+.donation-partition {
     display: flex;
     justify-content: center;
     margin-top: 30px;
 }
 
-.first-partition{
+.first-partition {
     width: 65px;
     height: 60px;
     color: #575757;
@@ -61,7 +61,7 @@ body {
     border-radius: 8px;
 }
 
-.second-partition{
+.second-partition {
     width: 65px;
     height: 60px;
     color: red;
@@ -73,7 +73,7 @@ body {
     border-radius: 8px;
 }
 
-.third-partition{
+.third-partition {
     width: 65px;
     height: 60px;
     color: #575757;
@@ -84,7 +84,7 @@ body {
     border-radius: 8px;
 }
 
-.fourth-partition{
+.fourth-partition {
     width: 65px;
     height: 60px;
     color: #575757;
@@ -95,7 +95,7 @@ body {
     border-radius: 8px;
 }
 
-.fifth-partition{
+.fifth-partition {
     width: 65px;
     height: 60px;
     color: #575757;
@@ -106,11 +106,79 @@ body {
     border-radius: 8px;
 }
 
-.input-amount{
+.input-amount {
     text-align: center;
     color: #b0acac;
     width: 50%;
     justify-content: center;
     margin-top: 50px;
     margin-left: 335px;
+}
+
+.donate-plan {
+    margin-top: 100px;
+    margin-bottom: 150px;
+}
+
+
+.donate-plan-text {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.donation-plan-box {
+    display: flex;
+}
+
+.food-box {
+    width: 350px;
+    height: 250px;
+    background-color: rgb(159, 206, 209);
+    padding: 20px;
+    margin-left: 10%;
+    border-radius: 8px;
+}
+
+.shelter-box {
+    width: 350px;
+    height: 250px;
+    background-color: rgb(241, 196, 234);
+    padding: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius: 8px;
+}
+
+.education-box {
+    width: 350px;
+    height: 250px;
+    background-color: rgb(255, 244, 214);
+    padding: 20px;
+    margin-right: 10%;
+    border-radius: 8px;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.half-width img {
+    width: 80%;
+    border-radius: 5px;
+}
+
+.half-width p{
+    color: #757474;
+}
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 120px;
+}
+
+.updates{
+    text-align: center;
 }
