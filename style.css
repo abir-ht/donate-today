@@ -29,3 +29,79 @@ body {
     padding: 15px 25px;
     border-radius: 5px;
 }
+
+.donate-today{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.donate-today-title h1{
+    font-size: 40px;
+}
+
+.donate-today-title p{
+    color: #757575;
+}
+
+.donation-partition{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.first-partition{
+    width: 65px;
+    height: 60px;
+    color: #575757;
+    background-color: rgb(236, 244, 245, 0.952);
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+
+.second-partition{
+    width: 65px;
+    height: 60px;
+    color: red;
+    border: 2px solid red;
+    background-color: rgb(238, 195, 202);
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+
+.third-partition{
+    width: 65px;
+    height: 60px;
+    color: #575757;
+    background-color: rgb(236, 244, 245, 0.952);
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+
+.fourth-partition{
+    width: 65px;
+    height: 60px;
+    color: #575757;
+    background-color: rgb(236, 244, 245, 0.952);
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+
+.fifth-partition{
+    width: 65px;
+    height: 60px;
+    color: #575757;
+    background-color: rgb(236, 244, 245, 0.952);
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 8px;
+}
